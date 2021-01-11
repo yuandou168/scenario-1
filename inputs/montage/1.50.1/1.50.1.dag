@@ -1,0 +1,780 @@
+{
+    "nodes": [
+        {
+            "order": 0,
+            "name": "t0"
+        },
+        {
+            "order": 1,
+            "name": "t1"
+        },
+        {
+            "order": 2,
+            "name": "t2"
+        },
+        {
+            "order": 3,
+            "name": "t3"
+        },
+        {
+            "order": 4,
+            "name": "t4"
+        },
+        {
+            "order": 5,
+            "name": "t5"
+        },
+        {
+            "order": 6,
+            "name": "t6"
+        },
+        {
+            "order": 7,
+            "name": "t7"
+        },
+        {
+            "order": 8,
+            "name": "t8"
+        },
+        {
+            "order": 9,
+            "name": "t9"
+        },
+        {
+            "order": 10,
+            "name": "t10"
+        },
+        {
+            "order": 11,
+            "name": "t11"
+        },
+        {
+            "order": 12,
+            "name": "t12"
+        },
+        {
+            "order": 13,
+            "name": "t13"
+        },
+        {
+            "order": 14,
+            "name": "t14"
+        },
+        {
+            "order": 15,
+            "name": "t15"
+        },
+        {
+            "order": 16,
+            "name": "t16"
+        },
+        {
+            "order": 17,
+            "name": "t17"
+        },
+        {
+            "order": 18,
+            "name": "t18"
+        },
+        {
+            "order": 19,
+            "name": "t19"
+        },
+        {
+            "order": 20,
+            "name": "t20"
+        },
+        {
+            "order": 21,
+            "name": "t21"
+        },
+        {
+            "order": 22,
+            "name": "t22"
+        },
+        {
+            "order": 23,
+            "name": "t23"
+        },
+        {
+            "order": 24,
+            "name": "t24"
+        },
+        {
+            "order": 25,
+            "name": "t25"
+        },
+        {
+            "order": 26,
+            "name": "t26"
+        },
+        {
+            "order": 27,
+            "name": "t27"
+        },
+        {
+            "order": 28,
+            "name": "t28"
+        },
+        {
+            "order": 29,
+            "name": "t29"
+        },
+        {
+            "order": 30,
+            "name": "t30"
+        },
+        {
+            "order": 31,
+            "name": "t31"
+        },
+        {
+            "order": 32,
+            "name": "t32"
+        },
+        {
+            "order": 33,
+            "name": "t33"
+        },
+        {
+            "order": 34,
+            "name": "t34"
+        },
+        {
+            "order": 35,
+            "name": "t35"
+        },
+        {
+            "order": 36,
+            "name": "t36"
+        },
+        {
+            "order": 37,
+            "name": "t37"
+        },
+        {
+            "order": 38,
+            "name": "t38"
+        },
+        {
+            "order": 39,
+            "name": "t39"
+        },
+        {
+            "order": 40,
+            "name": "t40"
+        },
+        {
+            "order": 41,
+            "name": "t41"
+        },
+        {
+            "order": 42,
+            "name": "t42"
+        },
+        {
+            "order": 43,
+            "name": "t43"
+        },
+        {
+            "order": 44,
+            "name": "t44"
+        },
+        {
+            "order": 45,
+            "name": "t45"
+        },
+        {
+            "order": 46,
+            "name": "t46"
+        },
+        {
+            "order": 47,
+            "name": "t47"
+        },
+        {
+            "order": 48,
+            "name": "t48"
+        },
+        {
+            "order": 49,
+            "name": "t49"
+        },
+        {
+            "order": 50,
+            "name": "t50"
+        }
+    ],
+    "links": [
+        {
+            "source": "t0",
+            "target": "t1",
+            "throughput": 51200
+        },
+        {
+            "source": "t0",
+            "target": "t2",
+            "throughput": 51200
+        },
+        {
+            "source": "t0",
+            "target": "t3",
+            "throughput": 20480
+        },
+        {
+            "source": "t0",
+            "target": "t4",
+            "throughput": 10240
+        },
+        {
+            "source": "t0",
+            "target": "t5",
+            "throughput": 102400
+        },
+        {
+            "source": "t0",
+            "target": "t6",
+            "throughput": 10240
+        },
+        {
+            "source": "t0",
+            "target": "t7",
+            "throughput": 51200
+        },
+        {
+            "source": "t0",
+            "target": "t8",
+            "throughput": 51200
+        },
+        {
+            "source": "t1",
+            "target": "t9",
+            "throughput": 51407
+        },
+        {
+            "source": "t1",
+            "target": "t10",
+            "throughput": 20687
+        },
+        {
+            "source": "t1",
+            "target": "t11",
+            "throughput": 51407
+        },
+        {
+            "source": "t1",
+            "target": "t12",
+            "throughput": 51407
+        },
+        {
+            "source": "t1",
+            "target": "t13",
+            "throughput": 10447
+        },
+        {
+            "source": "t1",
+            "target": "t14",
+            "throughput": 102607
+        },
+        {
+            "source": "t1",
+            "target": "t25",
+            "throughput": 102607
+        },
+        {
+            "source": "t1",
+            "target": "t28",
+            "throughput": 20687
+        },
+        {
+            "source": "t1",
+            "target": "t39",
+            "throughput": 102607
+        },
+        {
+            "source": "t2",
+            "target": "t10",
+            "throughput": 20687
+        },
+        {
+            "source": "t2",
+            "target": "t14",
+            "throughput": 102607
+        },
+        {
+            "source": "t2",
+            "target": "t15",
+            "throughput": 10447
+        },
+        {
+            "source": "t2",
+            "target": "t16",
+            "throughput": 102607
+        },
+        {
+            "source": "t2",
+            "target": "t17",
+            "throughput": 51407
+        },
+        {
+            "source": "t2",
+            "target": "t18",
+            "throughput": 10447
+        },
+        {
+            "source": "t2",
+            "target": "t21",
+            "throughput": 102607
+        },
+        {
+            "source": "t2",
+            "target": "t29",
+            "throughput": 20687
+        },
+        {
+            "source": "t2",
+            "target": "t40",
+            "throughput": 102607
+        },
+        {
+            "source": "t3",
+            "target": "t11",
+            "throughput": 51407
+        },
+        {
+            "source": "t3",
+            "target": "t16",
+            "throughput": 102607
+        },
+        {
+            "source": "t3",
+            "target": "t19",
+            "throughput": 20687
+        },
+        {
+            "source": "t3",
+            "target": "t20",
+            "throughput": 51407
+        },
+        {
+            "source": "t3",
+            "target": "t33",
+            "throughput": 51407
+        },
+        {
+            "source": "t3",
+            "target": "t41",
+            "throughput": 102607
+        },
+        {
+            "source": "t4",
+            "target": "t12",
+            "throughput": 51407
+        },
+        {
+            "source": "t4",
+            "target": "t20",
+            "throughput": 51407
+        },
+        {
+            "source": "t4",
+            "target": "t21",
+            "throughput": 102607
+        },
+        {
+            "source": "t4",
+            "target": "t22",
+            "throughput": 10447
+        },
+        {
+            "source": "t4",
+            "target": "t23",
+            "throughput": 102607
+        },
+        {
+            "source": "t4",
+            "target": "t24",
+            "throughput": 51407
+        },
+        {
+            "source": "t4",
+            "target": "t26",
+            "throughput": 102607
+        },
+        {
+            "source": "t4",
+            "target": "t30",
+            "throughput": 10447
+        },
+        {
+            "source": "t4",
+            "target": "t34",
+            "throughput": 51407
+        },
+        {
+            "source": "t4",
+            "target": "t42",
+            "throughput": 51407
+        },
+        {
+            "source": "t5",
+            "target": "t17",
+            "throughput": 51407
+        },
+        {
+            "source": "t5",
+            "target": "t23",
+            "throughput": 102607
+        },
+        {
+            "source": "t5",
+            "target": "t25",
+            "throughput": 102607
+        },
+        {
+            "source": "t5",
+            "target": "t26",
+            "throughput": 102607
+        },
+        {
+            "source": "t5",
+            "target": "t27",
+            "throughput": 102607
+        },
+        {
+            "source": "t5",
+            "target": "t32",
+            "throughput": 102607
+        },
+        {
+            "source": "t5",
+            "target": "t43",
+            "throughput": 10447
+        },
+        {
+            "source": "t6",
+            "target": "t13",
+            "throughput": 10447
+        },
+        {
+            "source": "t6",
+            "target": "t24",
+            "throughput": 51407
+        },
+        {
+            "source": "t6",
+            "target": "t28",
+            "throughput": 20687
+        },
+        {
+            "source": "t6",
+            "target": "t29",
+            "throughput": 20687
+        },
+        {
+            "source": "t6",
+            "target": "t30",
+            "throughput": 10447
+        },
+        {
+            "source": "t6",
+            "target": "t31",
+            "throughput": 51407
+        },
+        {
+            "source": "t6",
+            "target": "t35",
+            "throughput": 102607
+        },
+        {
+            "source": "t6",
+            "target": "t44",
+            "throughput": 51407
+        },
+        {
+            "source": "t7",
+            "target": "t31",
+            "throughput": 51407
+        },
+        {
+            "source": "t7",
+            "target": "t32",
+            "throughput": 102607
+        },
+        {
+            "source": "t7",
+            "target": "t45",
+            "throughput": 10447
+        },
+        {
+            "source": "t8",
+            "target": "t18",
+            "throughput": 10447
+        },
+        {
+            "source": "t8",
+            "target": "t33",
+            "throughput": 51407
+        },
+        {
+            "source": "t8",
+            "target": "t34",
+            "throughput": 51407
+        },
+        {
+            "source": "t8",
+            "target": "t35",
+            "throughput": 102607
+        },
+        {
+            "source": "t8",
+            "target": "t36",
+            "throughput": 10447
+        },
+        {
+            "source": "t8",
+            "target": "t46",
+            "throughput": 51407
+        },
+        {
+            "source": "t9",
+            "target": "t37",
+            "throughput": 10647
+        },
+        {
+            "source": "t10",
+            "target": "t37",
+            "throughput": 11051
+        },
+        {
+            "source": "t11",
+            "target": "t37",
+            "throughput": 11051
+        },
+        {
+            "source": "t12",
+            "target": "t37",
+            "throughput": 11056
+        },
+        {
+            "source": "t13",
+            "target": "t37",
+            "throughput": 11054
+        },
+        {
+            "source": "t14",
+            "target": "t37",
+            "throughput": 11054
+        },
+        {
+            "source": "t15",
+            "target": "t37",
+            "throughput": 10647
+        },
+        {
+            "source": "t16",
+            "target": "t37",
+            "throughput": 11052
+        },
+        {
+            "source": "t17",
+            "target": "t37",
+            "throughput": 11055
+        },
+        {
+            "source": "t18",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t19",
+            "target": "t37",
+            "throughput": 10648
+        },
+        {
+            "source": "t20",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t21",
+            "target": "t37",
+            "throughput": 11055
+        },
+        {
+            "source": "t22",
+            "target": "t37",
+            "throughput": 10647
+        },
+        {
+            "source": "t23",
+            "target": "t37",
+            "throughput": 11054
+        },
+        {
+            "source": "t24",
+            "target": "t37",
+            "throughput": 11052
+        },
+        {
+            "source": "t25",
+            "target": "t37",
+            "throughput": 11051
+        },
+        {
+            "source": "t26",
+            "target": "t37",
+            "throughput": 11051
+        },
+        {
+            "source": "t27",
+            "target": "t37",
+            "throughput": 10648
+        },
+        {
+            "source": "t28",
+            "target": "t37",
+            "throughput": 11052
+        },
+        {
+            "source": "t29",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t30",
+            "target": "t37",
+            "throughput": 11056
+        },
+        {
+            "source": "t31",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t32",
+            "target": "t37",
+            "throughput": 11052
+        },
+        {
+            "source": "t33",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t34",
+            "target": "t37",
+            "throughput": 11053
+        },
+        {
+            "source": "t35",
+            "target": "t37",
+            "throughput": 11054
+        },
+        {
+            "source": "t36",
+            "target": "t37",
+            "throughput": 10644
+        },
+        {
+            "source": "t37",
+            "target": "t38",
+            "throughput": 102421
+        },
+        {
+            "source": "t38",
+            "target": "t39",
+            "throughput": 102401
+        },
+        {
+            "source": "t38",
+            "target": "t40",
+            "throughput": 102401
+        },
+        {
+            "source": "t38",
+            "target": "t41",
+            "throughput": 102401
+        },
+        {
+            "source": "t38",
+            "target": "t42",
+            "throughput": 51201
+        },
+        {
+            "source": "t38",
+            "target": "t43",
+            "throughput": 10241
+        },
+        {
+            "source": "t38",
+            "target": "t44",
+            "throughput": 51201
+        },
+        {
+            "source": "t38",
+            "target": "t45",
+            "throughput": 10241
+        },
+        {
+            "source": "t38",
+            "target": "t46",
+            "throughput": 51201
+        },
+        {
+            "source": "t39",
+            "target": "t47",
+            "throughput": 51607
+        },
+        {
+            "source": "t40",
+            "target": "t47",
+            "throughput": 51608
+        },
+        {
+            "source": "t41",
+            "target": "t47",
+            "throughput": 51606
+        },
+        {
+            "source": "t42",
+            "target": "t47",
+            "throughput": 51606
+        },
+        {
+            "source": "t43",
+            "target": "t47",
+            "throughput": 51607
+        },
+        {
+            "source": "t44",
+            "target": "t47",
+            "throughput": 51605
+        },
+        {
+            "source": "t45",
+            "target": "t47",
+            "throughput": 51606
+        },
+        {
+            "source": "t46",
+            "target": "t47",
+            "throughput": 51605
+        },
+        {
+            "source": "t47",
+            "target": "t48",
+            "throughput": 23728
+        },
+        {
+            "source": "t48",
+            "target": "t49",
+            "throughput": 20481
+        },
+        {
+            "source": "t49",
+            "target": "t50",
+            "throughput": 58006
+        }
+    ]
+}
