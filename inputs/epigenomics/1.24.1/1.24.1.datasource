@@ -1,0 +1,9 @@
+{
+    "nodes": [
+        {
+            "order": 1,
+            "name": "t1",
+            "geo": "europe-west4"
+        }
+    ]
+}

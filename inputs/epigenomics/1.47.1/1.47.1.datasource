@@ -1,0 +1,14 @@
+{
+    "nodes": [
+        {
+            "order": 1,
+            "name": "t1",
+            "geo": "europe, Paris"
+        },
+        {
+            "order": 2,
+            "name": "t2",
+            "geo": "europe, Paris"
+        }
+    ]
+}
