@@ -1,0 +1,54 @@
+{
+    "nodes": [
+        {
+            "order": 3,
+            "name": "t3",
+            "geo": "west europe"
+        },
+        {
+            "order": 90,
+            "name": "t90",
+            "geo": "west europe"
+        },
+        {
+            "order": 185,
+            "name": "t185",
+            "geo": "europe, Paris"
+        },
+        {
+            "order": 282,
+            "name": "t282",
+            "geo": "europe, Paris"
+        },
+        {
+            "order": 379,
+            "name": "t379",
+            "geo": "europe-west4"
+        },
+        {
+            "order": 478,
+            "name": "t478",
+            "geo": "west europe"
+        },
+        {
+            "order": 577,
+            "name": "t577",
+            "geo": "europe, Paris"
+        },
+        {
+            "order": 678,
+            "name": "t678",
+            "geo": "europe, Paris"
+        },
+        {
+            "order": 779,
+            "name": "t779",
+            "geo": "west europe"
+        },
+        {
+            "order": 888,
+            "name": "t888",
+            "geo": "west europe"
+        }
+    ]
+}
